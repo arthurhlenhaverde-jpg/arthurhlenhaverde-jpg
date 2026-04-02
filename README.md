@@ -1,6 +1,6 @@
 ## 👨‍💻 about me
 - Sou um estudante Técnico **Desenvolvimento de Sistemas** do **SENAI**.
-- Apaixonado por progamação, com foco em aprimorar minhas habilidades em **desenvolvimento websites**.
+- Estudoprogamação, com foco em aprimorar minhas habilidades em **desenvolvimento websites**.
 
 <h3 align="left">Languages and Tools:</h3>
 
